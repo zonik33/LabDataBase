@@ -1,0 +1,20 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 0e650e025e501afde03a2d9df04d26b02a2a45d2)
++++ .idea/workspace.xml	(revision af1078ae91289ad983c8260666f757c4ff0a19db)
+@@ -164,10 +164,10 @@
+       <screen x="0" y="0" width="1366" height="738" />
+     </state>
+     <state x="275" y="27" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1599540187616" />
+-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599541557990">
++    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599541729379">
+       <screen x="0" y="0" width="1366" height="738" />
+     </state>
+-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1599541557990" />
++    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1599541729379" />
+     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1599541502995">
+       <screen x="0" y="0" width="1366" height="738" />
+     </state>
